@@ -1,0 +1,4 @@
+biopython==1.66
+DateTime==4.0.1
+pytz==2016.3
+zope.interface==4.1.3
